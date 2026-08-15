@@ -1,10 +1,10 @@
 # Hey, I'm Kilian! 👋
 
-Welcome to my GitHub profile! I'm a 1st-year student at CyTech in the pre-engineering program, specializing in Mathematics-Computer Science with Physics option. Passionate about learning and creating innovative solutions.
+Welcome to my GitHub profile! I'm a 2nd-year student at CyTech in the pre-engineering program, specializing in Mathematics-Computer Science with Physics option. Passionate about learning and creating innovative solutions.
 
 ## 🎓 About Me
 
-I'm currently in my **1st year at CyTech** in the pre-engineering Math-CS curriculum with Physics specialization. I'm motivated and curious, always looking for opportunities to deepen my knowledge in computer science and develop my technical skills. My ambitious goal is to pursue the engineering program with an apprenticeship at a top-tier company.
+I'm currently in my **2nd year at CyTech** in the pre-engineering Math-CS curriculum with Physics specialization. I'm motivated and curious, always looking for opportunities to deepen my knowledge in computer science and develop my technical skills. My ambitious goal is to pursue the engineering program with an apprenticeship at a top-tier company.
 
 ## 💻 Technical Skills
 
@@ -33,10 +33,6 @@ I'm currently in intensive learning mode with several educational projects:
 ## 💪 Beyond the Code
 
 When I'm not coding or studying, you'll find me **at the gym!** 🏋️ I enjoy staying active and maintaining a healthy balance between work and wellness.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilian-gthb&show_icons=true&theme=radical)
 
 ## 🤝 Get in Touch
 
