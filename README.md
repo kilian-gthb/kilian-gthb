@@ -8,7 +8,7 @@ I'm currently in my **2nd year at CyTech** in the pre-engineering Math-CS curric
 
 ## 💻 Technical Skills
 
-- **Primary Languages:** C, Python, SQL
+- **Primary Languages:** C, PHP, Python, SQL
 - **Web:** HTML, CSS (brushing up)
 - **Tools & Concepts:** Git, Algorithms, Applied Mathematics
 
@@ -24,7 +24,7 @@ I'm currently in intensive learning mode with several educational projects:
 
 ## 🚀 Current Goals
 
-- 📚 Master the fundamentals of computer science (C, Python, SQL)
+- 📚 Master the fundamentals of computer science (C, PHP, Python, SQL)
 - 🔄 Strengthen my skills in algorithms and data structures
 - 💡 Develop more ambitious and impactful projects
 - 🎯 Prepare for the engineering program with apprenticeship
